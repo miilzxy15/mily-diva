@@ -5,5 +5,9 @@ h1{
     color:lightblue
 }
 h2{
-    
+    front-size: large;
+    front-style: italic;
+}
+.uau{
+    width: 30%;
 }
