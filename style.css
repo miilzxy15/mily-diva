@@ -1,15 +1,16 @@
 body {
-    background-color: khaki;
+    background-color:lightskyblue;
     text-align: center;
 }
 h1{
-    color:lightblue
+    color:lightblue;
 }
 h2{
     front-size: large;
     front-style: italic;
 }
-.uau{
+.uau
+{
     width: 30%;
 }
 p{
