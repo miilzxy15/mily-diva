@@ -6,12 +6,11 @@ h1{
     color:lightblue;
 }
 h2{
-    front-size: large;
-    front-style: italic;
+    font-size: large;
+    font-style: italic;
 }
-.uau
-{
-    width: 30%;
+.uau{
+    width:30%;
 }
 p{
     font-weight: 200;
