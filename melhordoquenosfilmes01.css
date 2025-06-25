@@ -1,0 +1,15 @@
+body{
+    background-color: darkorchid;
+    text-align: center;
+}
+h1{
+    color:darkslateblue
+}
+h2{
+    font-size:large;
+    font-style: italic;
+}
+.02{width:29%}
+p{
+    font-weight: 200;
+}
