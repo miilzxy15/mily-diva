@@ -1,0 +1,16 @@
+body{
+    background-color: lightpink;
+    text-align: center;
+}
+h1{
+    color: hotpink;
+}
+h2{
+    font-size: large;
+    font-style: italic;
+}
+.mii{width:29%}
+.lynn{width:29%}
+p{
+    font-weight: 200;
+}
